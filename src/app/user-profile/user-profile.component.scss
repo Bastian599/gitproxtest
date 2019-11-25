@@ -1,0 +1,35 @@
+
+.space-component {
+  height: auto;
+  min-height: 3rem;
+  overflow: visible;
+}
+
+.space-component1 {
+  height: 50px;
+  overflow: visible;
+}
+
+.space-component2 {
+  height: auto;
+  min-height: 3rem;
+  overflow-x: visible;
+  overflow-y: hidden;
+}
+
+.image {
+  width: 366px;
+  height: 400px;
+  border-radius: 0;
+  object-fit: fill;
+}
+
+.space-component3 {
+  height: 65px;
+  overflow: visible;
+}
+
+.space-component4 {
+  height: 116px;
+  overflow: visible;
+}
